@@ -1,5 +1,3 @@
-java
-====
 import java.util.Scanner;
 class pr1 {
 	public static void main(String[] args) {
